@@ -22,3 +22,4 @@ ENV PYTHONUNBUFFERED=true
 ENV TZ=America/New_York
 
 ENTRYPOINT [ "python3", "tesla_dashcam/tesla_dashcam.py" ]
+
